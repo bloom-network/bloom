@@ -1,8 +1,8 @@
-# Friendly
-We believe that nothing can replace human interaction, that is why we created Friendly, a different kind of social network that makes it easier to safely meet new people in person. 
+# Bloom
+We believe that nothing can replace human interaction, that is why we created Bloom, a different kind of social network that makes it easier to safely meet new people in person. 
 
 ## Explore
-In Friendly, exploration is key, users can see what people around them are sharing, react to their posts and engage in conversation. Follow people and have their posts appear in your personal timeline.
+In Bloom, exploration is key, users can see what people around them are sharing, react to their posts and engage in conversation. Follow people and have their posts appear in your personal timeline.
 
 To add someone to your network, both users have to set up a meet and be in close proximity of each other. Just bring your phones together and accept the friend request. 
 
