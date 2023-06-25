@@ -1,0 +1,10 @@
+[package]
+name = "bloom-protocol"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+activitypub_federation = { version = "0.4.4", features = ["axum"] }
+activitystreams-kinds = "0.3.0"
